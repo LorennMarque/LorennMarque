@@ -1,6 +1,19 @@
-<h1>Welcome to Lorenn porfile!</h1>
+<h1><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Welcome to Lorenn porfile!</h1>
 
-<img align="centre" color="#2791FF" src="https://readme-typing-svg.herokuapp.com?color=2791FF&vCenter=true&lines=Currently+learning+HTML;Currently+learning+CSS;Currently+learning+Python;Currently+learning+JavaScript;Currently+learning+Arduino;Currently+learning+Node;Currently+learning+React)](https://git.io/typing-svg" alt="">
+<img align="centre" color="#2791FF"
+  src="https://readme-typing-svg.herokuapp.com?Center=true&lines=Currently+learning+HTML;Currently+learning+CSS;Currently+learning+Python;Currently+learning+JavaScript;Currently+learning+Arduino;Currently+learning+Node;Currently+learning+React"
+  alt="">
+
+<h2>About me</h2>
+<p>
+  🌱 Currently learning Web Development
+  <br>
+  📫 You can reach me on discord: Lorenn#3122
+  <br>
+  👯 I’m looking to learn about SQL
+  <br>
+  ⚡ Rubiks cube enjoyer
+</p>
 
 <!--
 **LorennMarque/LorennMarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
