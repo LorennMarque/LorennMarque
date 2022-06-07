@@ -1,9 +1,4 @@
 ### Hi there 👋
-<styles>
-  body{
-  background-color: red;
-  }
-  </styles>
 <h1>I’m currently learning HTML and CSS</h1>
 <!--
 **LorennMarque/LorennMarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
