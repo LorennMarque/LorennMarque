@@ -1,8 +1,8 @@
-<h1><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Welcome to Lorenn porfile!</h1>
+<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Welcome to Lorenn porfile!</h1>
 
-<img align="centre" color="#2791FF"
-  src="https://readme-typing-svg.herokuapp.com?Center=true&lines=Currently+learning+HTML;Currently+learning+CSS;Currently+learning+Python;Currently+learning+JavaScript;Currently+learning+Arduino;Currently+learning+Node;Currently+learning+React"
-  alt="">
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Currently+learning+HTML;Currently+learning+CSS;Currently+learning+Python;Currently+learning+JavaScript;Currently+learning+Arduino;Currently+learning+Node;Currently+learning+React" alt="">
+  </p>
 
 <h2>About me</h2>
 <p>
