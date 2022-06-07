@@ -12,7 +12,7 @@
   <br>
   👯 I’m looking to learn about SQL
   <br>
-  ⚡ Rubiks cube enjoyer
+  ⚡ Rubik cube enjoyer
 </p>
 
 <!--
