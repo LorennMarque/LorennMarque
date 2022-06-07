@@ -1,40 +1,9 @@
+
 ### Hi there 👋
-<h1>I’m currently learning HTML and CSS</h1>
+<h1>Welcome to my porfile!</h1>
 
-<div class="wrapper">
-    <div class="typing-demo">
-      This is a typing demo.
-    </div>
-    
-.wrapper {
-  height: 100vh;
-  /*This part is important for centering*/
-  display: grid;
-  place-items: center;
-}
+<img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Currently+learning+CSS;Currently+learning+HTML;Currently+learning++Python;Currently+learning++JavaScript;Currently+learning+React;Currently+learning+Node" alt="">
 
-.typing-demo {
-  width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 2em;
-}
-
-@keyframes typing {
-  from {
-    width: 0
-  }
-}
-
-@keyframes blink {
-  50% {
-    border-color: transparent
-  }
-}
-    
 <!--
 **LorennMarque/LorennMarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
