@@ -1,6 +1,4 @@
-
-### Hi there 👋
-<h1>Welcome to my porfile!</h1>
+<h1>Welcome to Lorenn porfile!</h1>
 
 <img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Currently+learning+CSS;Currently+learning+HTML;Currently+learning++Python;Currently+learning++JavaScript;Currently+learning+React;Currently+learning+Node" alt="">
 
