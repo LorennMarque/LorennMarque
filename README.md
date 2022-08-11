@@ -6,7 +6,6 @@
 
 <h2>About me</h2>
 <p>
-  🌱 Currently learning Web Development
   <br>
   📫 You can reach me on discord: Lorenn#3122
   <br>
