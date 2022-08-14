@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A future full-stack developer from Argentina</h3>
-  <br>
+<h3 align="left">A future full-stack developer from Argentina</h3>
   <p>
+  
 - 🔭 I’m currently working on **my skills with python**
 
 - 🌱 I’m currently learning **Javascript and Web Design!**
