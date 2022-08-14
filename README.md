@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A future full-stack developer from Argentina</h3>
 
-<p align="center"> 
+<p align="left"> 
 <img src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&lines=Currently+learning+HTML;Currently+learning+CSS;Currently+learning+Python;Currently+learning+JavaScript;Currently+learning+Arduino;Currently+learning+Node;Currently+learning+React" alt="">
   </p>
   
