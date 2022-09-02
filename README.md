@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jquery and Backend development!**
 
-- 👯 I’m looking to learn **databases and data analysis**
+- 👯 I’m looking to learn **AI, databases and data analysis**
 
 - 📫 How to reach me **lorenzomarquesini@gmail.com**
 
