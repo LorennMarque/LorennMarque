@@ -17,4 +17,4 @@
   </p>
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorennmarque)](https://github.com/lorennmarque/github-readme-stats)" alt="lorennmarque" /></p>
+<p><img align="center" src="https://github.com/lorennmarque/github-readme-stats" alt="lorennmarque" /></p>
