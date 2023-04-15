@@ -15,6 +15,3 @@
 
 - ⚡ Fun fact **rubiks cube enjoyer**
   </p>
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="center" src="https://github.com/lorennmarque/github-readme-stats" alt="lorennmarque" /></p>
