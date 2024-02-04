@@ -1,5 +1,5 @@
-
-<h1 align="center">Lorenzo Marquesini</h1>
+![Header](github-header-image.png)
+<h1>Lorenzo Marquesini</h1>
 💫 About Me:
 🔭 I’m currently working on full-stack Web development<br><br>
 🌱 Learning Python and R for DataScience<br><br>
