@@ -1,4 +1,4 @@
-![Header](github-header-image-new.png)
+![Header](black-tech.png)
 <h1>Lorenzo Marquesini</h1>
 💫 About Me:
 🔭 I’m currently working on full-stack Web development<br><br>
