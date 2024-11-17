@@ -1,9 +1,7 @@
 <h1>Lorenzo Marquesini</h1>
 <h3>🎓 Data Science Student at Universidad Austral </h3>
 <h3>📫 Mail: lorenzomarquesini@gmail.com </h3>
-<h3>💬 Discord: .lorenn </h3>
 
-## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lorenzo_marquesini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LorenzoMarquesini) 
 
 # 💻Tech Stack
